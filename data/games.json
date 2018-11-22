@@ -70,5 +70,14 @@
     "title":"For The People",
     "lead":"For The People is a grand strategy game of the Civil War covering the entire conflict from the firing on Fort Sumter until Lee's surrender at Appomattox Courthouse. You take the role of either Abraham Lincoln or Jefferson Davis. As the President of your country you manipulate political events and command the movement of armies as you try to break your opponent's strategic will to achieve victory",
     "img":"forpeoplecov.jpg"
+  },
+  "hoplite": {
+    "links": {
+      "GMT Hoplite Page":"http://www.gmtgames.com/p-453-hoplite.aspx"
+    },
+    "title":"Hoplite",
+    "lead":"This is the official Hoplite Homepage. Mark Herman will post various game components and updates here as they become available.",
+    "img":"hoplitecover.jpg"
+
   }
 }
