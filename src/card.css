@@ -1,0 +1,14 @@
+
+.card{
+    border: solid 1px;
+    text-align: center;
+    margin: 2px;
+    background-color: white;
+  }
+.btn{
+    margin-bottom: 2px;
+  }
+h1{
+  font-family:Impact, Charcoal, sans-serif;
+
+}

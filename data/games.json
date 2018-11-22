@@ -1,0 +1,74 @@
+{
+  "alexander": {
+    "links": {
+      "Expanded Deluxe Edition":"http://www.gmtgames.com/p-327-great-battles-of-alexander-expanded-deluxe-edition.aspx"
+    },
+    "img": "alexdeluxcoer.jpg",
+    "lead": "This is the official Great Battles of Alexander homepage.",
+    "title":"Great Battles of Alexander"
+  },
+  "churchill": {
+    "links":{
+      "GMT Home Page":"http://www.gmtgames.com/p-565-churchill-2nd-printing.aspx",
+      "Board Game Geek Page":"https://www.boardgamegeek.com/boardgame/132018/churchil",
+      "Download GMT Churchill Rules":"http://markherman.tripod.com/churchillrules.pdf",
+      "Download Official Errata/Clarifications 5 September 2015":"http://markherman.tripod.com/churchill_errata_and_clarifications_5_september2015.pdf"
+    },
+    "img":"churchillcover.jpg",
+    "lead": "This is the official Churchill: Big Three Conflict for Peace homepage.",
+    "title":"GMT CHURCHILL HOME PAGE"
+  },
+  "eots": {
+    "links": {
+      "Download GMT EOTS Published Rules":"http://markherman.tripod.com/eotsrules.html",
+      "Empire of the Sun Cyberboard Sets":"http://markherman.tripod.com/eotscyberboard.html",
+      "Strategy and Variant Articles":"http://markherman.tripod.com/EOTSstrategy.html",
+      "EoTS Tournament Information":"http://markherman.tripod.com/EoTSTournament.html"
+    },
+    "img": "eots2cover.jpg",
+    "lead":"This is the official Empire of The Sun (EOTS) Homepage. Mark Herman will post various game components and updates here as they become available.",
+    "title":"Empire of The Sun"
+  },
+  "fire": {
+    "links": {
+      "GMT's Fire In The Lake Page":"http://www.gmtgames.com/p-566-fire-in-the-lake-reprint-edition.aspx",
+      "Board Game Geek":"https://www.boardgamegeek.com/boardgame/144189/fire-lake"
+    },
+    "title":"Fire in The Lake",
+    "img":"fitlcover.jpg",
+    "lead":" This is the official Fire in The Lake Homepage. Mark Herman will post various game components and updates here as they become available."
+  },
+  "sumter":{
+    "links":{
+      "Fort Sumter Boardgame Geek":"https://boardgamegeek.com/boardgame/229956/fort-sumter-secession-crisis-1860-61",
+      "Fort Sumter GMT":"https://www.gmtgames.com/p-648-fort-sumter-the-secession-crisis-1860-61.aspx"
+    },
+    "title":"Fort Sumter",
+    "lead":" This is the official Fort Sumter Homepage. Mark Herman will post various game components and updates here as they become available.",
+    "img":"fort.jpg"
+  },
+  "ftp": {
+    "links":{
+      "GMT Game Page":"http://www.gmtgames.com/p-360-for-the-people.aspx" ,
+      "For the People 2006 reprint":"http://markherman.tripod.com/ftprules2006.pdf",
+      "AH For The People Rules vers. 6.0 pdf files":"http://markherman.tripod.com/for_the_people_v2.1.pdf",
+      "New Tournament Scenarios": "http://markherman.tripod.com/tournamentscenarios.html",
+      "FTP Cyberboard Files":"http://markherman.tripod.com/cyberboard.html",
+      "GMT Edition Card Text":"http://markherman.tripod.com/CardText.html",
+      "For The People (AH) Q&A":"http://markherman.tripod.com/qanda.html",
+      "For The People II (GMT) Q&A":"http://markherman.tripod.com/qanda2.html",
+      "For The People: PBEM Tournament Page":"http://markherman.tripod.com/pbem.html",
+      "For The People:Enabling History":"http://markherman.tripod.com/design.html",
+      "Eastern Theatre Strategy":"http://markherman.tripod.com/whiteh.html",
+      "Union Campaign Strategy":"http://markherman.tripod.com/unionstrat.html",
+      "Union Campaign Strategy II":"http://markherman.tripod.com/unionstrat2.html",
+      "Confederate Campaign Strategy":"http://markherman.tripod.com/csastrat.html",
+      "Message Board Archive Vol. II":"http://markherman.tripod.com/archive1.html",
+      "AH Edition For The People Official Errata":"http://markherman.tripod.com/FTPerrata.html",
+      "Website Links":"http://markherman.tripod.com/link.html"
+    },
+    "title":"For The People",
+    "lead":"For The People is a grand strategy game of the Civil War covering the entire conflict from the firing on Fort Sumter until Lee's surrender at Appomattox Courthouse. You take the role of either Abraham Lincoln or Jefferson Davis. As the President of your country you manipulate political events and command the movement of armies as you try to break your opponent's strategic will to achieve victory",
+    "img":"forpeoplecov.jpg"
+  }
+}
